@@ -59,36 +59,17 @@
 "pieChart": {
  "name": "GDP",
  "Title": "Pie Chart",
-    "piedata": [
-{
-    "id": 1,
-    "kind": "SolarSystem",
-    "share": 50
-  },
-  {
-    "id": 2,
-    "kind": "Wind",
-    "share": 20
-  },
-  {
-    "id": 3,
-    "kind": "Geothermal",
-    "share": 100
-  },
-  {
-    "id": 4,
-    "kind": "Natural Gas",
-    "share": 100
-  },
-  {
-    "id": 5,
-    "kind": "Coal",
-    "share": 80
-  },
-  {
-    "id": 6,
-    "kind": "Hydroelectric",
-    "share": 200
-  } 
- ]
+ "piedata": [{"id": 1,"kind": "SolarSystem","share": 50},
+             {"id": 2, "kind": "Wind","share": 20},
+             {"id": 3,"kind": "Geothermal","share": 10},
+             {"id": 4,"kind": "Natural Gas","share": 100},
+             {"id": 5,"kind": "Coal","share": 80},
+             {"id": 6,"kind": "Hydroelectric","share": 200}]
+             ,
+             [{"id": 1,"kind": "SolarSystem","share": 50},
+             {"id": 2, "kind": "Wind","share": 20},
+             {"id": 3,"kind": "Geothermal","share": 10},
+             {"id": 4,"kind": "Natural Gas","share": 100},
+             {"id": 5,"kind": "Coal","share": 80},
+             {"id": 6,"kind": "Hydroelectric","share": 200}]
 }}
