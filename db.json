@@ -1,0 +1,94 @@
+{
+"user1" :[
+ {
+"email": "AAA",
+"password":"1234",
+"Name": "AAA"
+ }
+],
+ 
+"summary":[
+{
+ "Name": "sum1",
+"value": "1000"
+},
+{
+ "Name": "sum2",
+"value": "1000"
+},
+{
+ "Name": "sum3",
+"value": "1000"
+}
+],
+
+ 
+ "singleBaChartData": [
+    {
+      "id": 1,
+      "category": "AB",
+      "value": 1
+    },
+    {
+      "id": 2,
+      "category": "product2",
+      "value": 4
+    },
+    {
+      "id": 3,
+      "category": "product3",
+      "value": 6
+    },
+    {
+      "id": 4,
+      "category": "product4",
+      "value": 2
+    },
+    {
+      "id": 5,
+      "category": "product5",
+      "value": 5
+    },
+    {
+      "id": 6,
+      "category": "product6",
+      "value": 1
+    }
+  ],
+
+"piedata": {
+ "name": "GDP",
+ "Title": "Pie Chart",
+    "data": [
+{
+    "id": 1,
+    "kind": "SolarSystem",
+    "share": 50
+  },
+  {
+    "id": 2,
+    "kind": "Wind",
+    "share": 20
+  },
+  {
+    "id": 3,
+    "kind": "Geothermal",
+    "share": 100
+  },
+  {
+    "id": 4,
+    "kind": "Natural Gas",
+    "share": 100
+  },
+  {
+    "id": 5,
+    "kind": "Coal",
+    "share": 80
+  },
+  {
+    "id": 6,
+    "kind": "Hydroelectric",
+    "share": 200
+  } 
+ ]
+}}
