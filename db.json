@@ -56,10 +56,10 @@
     }
   ],
 
-"piedata": {
+"pieChart": {
  "name": "GDP",
  "Title": "Pie Chart",
-    "data": [
+    "piedata": [
 {
     "id": 1,
     "kind": "SolarSystem",
