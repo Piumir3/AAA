@@ -11,8 +11,8 @@
 {"Name": "sum3","value": "1000"}],
 
  "singleBaChartData": {
- "name": "singleBaChartData- World Population by Broad Age Groups",
- "Title": "World Population by Broad Age Groups",
+ "name": "singleBaChartData-TOTAL REVENUE",
+ "Title": "TOTAL REVENUE",
  "singleBaChartData": [
   {"id": 1,"category": "product1","value": 5},
   {"id": 2,"category": "product2","value": 4},
