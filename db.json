@@ -45,5 +45,5 @@
                         {"id": 7,"interval": 1,"service": "Service 3","value": 5},
                         {"id": 8,"interval": 2,"service": "Service 3","value": 4},
                         {"id": 9,"interval": 3,"service": "Service 3","value": 1}]
- },
+ }
 }
