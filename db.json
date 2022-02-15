@@ -10,14 +10,18 @@
 {"Name": "sum2","value": "1000"},
 {"Name": "sum3","value": "1000"}],
 
- 
+ "singleBaChartData": {
+ "name": "singleBaChartData- World Population by Broad Age Groups",
+ "Title": "World Population by Broad Age Groups",
  "singleBaChartData": [
   {"id": 1,"category": "product1","value": 5},
   {"id": 2,"category": "product2","value": 4},
   {"id": 3,"category": "product3","value": 6},
   {"id": 4,"category": "product4","value": 2},
   {"id": 5,"category": "product5","value": 5},
-  {"id": 6,"category": "product6","value": 7}],
+  {"id": 6,"category": "product6","value": 7}
+ ]
+ },
 
 "pieData": {
  "name": "Pie Chart- World Population by Broad Age Groups",
