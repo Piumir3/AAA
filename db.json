@@ -20,7 +20,7 @@
   {"id": 6,"category": "product6","value": 7}],
 
 "pieData": {
- "name": "Pie Chart",
+ "name": "Pie Chart- World Population by Broad Age Groups",
  "Title": "World Population by Broad Age Groups",
  "pieData": [{"id": 1,"kind": "0-14","share": 0.2545},
              {"id": 2, "kind": "15-24","share": 0.1552},
