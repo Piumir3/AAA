@@ -34,7 +34,7 @@
             ]
 },
  "stackedbarchartdata":{
- "name": "Pie Chart- World Population by Broad Age Groups",
+ "name": "Stacked Bar Chart- World Population by Broad Age Groups",
  "Title": "World Population by Broad Age Groups",
  "stackedbarchartdata":[{"id": 1,"interval": 1,"service": "Service 1","value": 5},
                         {"id": 2,"interval": 2,"service": "Service 1","value": 15},
