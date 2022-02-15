@@ -19,7 +19,7 @@
   {"id": 5,"category": "product5","value": 5},
   {"id": 6,"category": "product6","value": 1}],
 
-"pieChart": {
+"pieData": {
  "name": "GDP",
  "Title": "Pie Chart",
  "pieData": [{"id": 1,"kind": "SolarSystem","share": 50},
