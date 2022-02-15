@@ -32,5 +32,18 @@
              {"id": 4,"kind": "55-64","share": 0.0911},
              {"id": 5,"kind": "65+","share": 0.0933}
             ]
-}
+},
+ "stackedbarchartdata":{
+ "name": "Pie Chart- World Population by Broad Age Groups",
+ "Title": "World Population by Broad Age Groups",
+ "stackedbarchartdata":[{"id": 1,"interval": 1,"service": "Service 1","value": 5},
+                        {"id": 2,"interval": 2,"service": "Service 1","value": 15},
+                        {"id": 3,"interval": 3,"service": "Service 1","value": 10},
+                        {"id": 4,"interval": 1,"service": "Service 2","value": 10},
+                        {"id": 5,"interval": 2,"service": "Service 2","value": 5},
+                        {"id": 6,"interval": 3,"service": "Service 2","value": 15},
+                        {"id": 7,"interval": 1,"service": "Service 3","value": 5},
+                        {"id": 8,"interval": 2,"service": "Service 3","value": 4},
+                        {"id": 9,"interval": 3,"service": "Service 3","value": 1}]
+ },
 }
