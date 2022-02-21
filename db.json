@@ -15,7 +15,7 @@
  "Title": "TOTAL REVENUE",
  "singleBaChartData": [
   {"label": "Apple","value": "810000","link": "newchart-xml-apple"},        
-	 {"label": "Cranberry","value": "620000","link": "newchart-xml-cranberry"},
+  {"label": "Cranberry","value": "620000","link": "newchart-xml-cranberry"},
   {"label": "Grapes","value": "350000","link": "newchart-xml-grapes"}]
  },
 
