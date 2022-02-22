@@ -2,13 +2,15 @@
 "user1" :[
  {"email": "AAA",
   "password":"1234",
-  "Name": "AAA"
- }],
+  "Name": "AAA"}],
  
 "summary":[
-{"Name": "sum1","value": "1000"},
-{"Name": "sum2","value": "1000"},
-{"Name": "sum3","value": "1000"}],
+{"SellOut": "1.9M"},
+{"Achievement": "49%"},
+{"ASO": "127K"},
+{"VPO":"12M"},
+{"SOperDistributor":"2M"}
+],
 
  "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
