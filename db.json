@@ -11,7 +11,7 @@
 
  "singleBaChartData": {
  "name": "singleBaChartData-TOTAL REVENUE",
- "Title": "Sell out by Business Area",
+ "Title": "Sell out by Year",
  "singleBaChartData": [
   {"label": "2018","value": "810000","link": "newchart-xml-apple"},        
   {"label": "2019","value": "620000","link": "newchart-xml-cranberry"},
