@@ -71,13 +71,12 @@
  },
 
 "pieData": {
- "name": "Total Sellout",
- "Title": "Total Sellout",
- "pieData": [{"id": 1,"kind": "Jan","share": 0.2545},
-             {"id": 2, "kind": "Feb","share": 0.1552},
-             {"id": 3,"kind": "Mar","share": 0.4059},
-             {"id": 4,"kind": "Apr","share": 0.0911},
-             {"id": 5,"kind": "May","share": 0.0933}
+ "name": "Sellout By Product Category",
+ "Title": "Sellout By Product Category",
+ "pieData": [{"id": 1,"kind": "TOT","share": 0.2545},
+             {"id": 2, "kind": "CSD","share": 0.1552},
+             {"id": 3,"kind": "NCB","share": 0.4059}
+             
             ]
 },
  "stackedbarchartdata":{
