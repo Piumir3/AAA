@@ -5,11 +5,11 @@
   "Name": "AAA"}],
  
 "summary":[
-{"name":"Sell Out","amount": "1.9M","Description":"Total Sales Amount"},
-{"name":"+Achievement %","amount": "49%","Description":"Sell Out/Target"},
-{"name":"ASO","amount": "127K","Description":"Achieve Service Outlet"},
-{"name":"VPO","amount": "12M","Description":"Value Per Active Service Outlet"},
-{"name":"Sell Out per Distributor","amount": "2M","Description":"Average Sell Out per Distributor"}
+{"name":"Sell Out","amount": "1.9M","Description":"Total Sales Amount","status":"up"},
+{"name":"+Achievement %","amount": "49%","Description":"Sell Out/Target","status":"down"},
+{"name":"ASO","amount": "127K","Description":"Achieve Service Outlet","status":"up"},
+{"name":"VPO","amount": "12M","Description":"Value Per Active Service Outlet","status":"down"},
+{"name":"Sell Out per Distributor","amount": "2M","Description":"Average Sell Out per Distributor","status":"up"}
 ],
 
  "singleBaChartData": {
