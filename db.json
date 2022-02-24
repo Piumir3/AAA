@@ -110,6 +110,7 @@
  "lineBarData":{
  "name": "Sell out Trending - 2021",
  "Title": "Sell out Trending - 2021",
+  "categories": [2002, 2003, 2004, 2005, 2006],
  "data":[{
     "name": "2017",
     "type":"line",
