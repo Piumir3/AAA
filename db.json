@@ -73,11 +73,15 @@
 "pieData": {
  "name": "Sellout By Product Category",
  "Title": "Sellout By Product Category",
- "pieData": [{"id": 1,"kind": "TOT","share": 0.2545},
-             {"id": 2, "kind": "CSD","share": 0.1552},
-             {"id": 3,"kind": "NCB","share": 0.4059}
-             
-            ]
+ "pieData": [{ kind: 'Asia', share: 0.175, parentID: '' },
+    { kind: 'America', share: 0.238, parentID: '' },
+    { kind: 'Europe', share: 0.118, parentID: '' },
+    { kind: 'Africa', share: 0.052, parentID: '' },
+    { kind: 'SL', share: 0.225, parentID: 'Asia' },
+    { kind: 'India', share: 0.192, parentID: 'Asia' },
+    { kind: 'Russia', share: 0.192, parentID: 'Europe' },
+    { kind: 'France', share: 0.192, parentID: 'Europe' }
+    ]
 },
  "stackedbarchartdata":{
  "name": "Sellout By Town",
