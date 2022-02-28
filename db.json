@@ -76,12 +76,11 @@
  "pieData": [{ "kind": "Asia", "share": "0.175", "parentID": "" },
     { "kind": "America", "share": "0.238", "parentID": "" },
     { "kind": "Europe", "share": "0.118", "parentID": "" },
-    { "kind": "Africa", "share": "0.052", "parentID": "" },
-    { "kind": "SL", "share": "0.225", "parentID": "Asia" },
-    { "kind": "India", "share": "0.192", "parentID": "Asia" },
-    { "kind": "Russia", "share": "0.192", "parentID": "Europe" },
-    { "kind": "France", "share": "0.192", "parentID": "Europe" }
-    ]
+    { "kind": "Africa", "share": "0.052", "parentID": "" }],
+ "Asia":[{ "kind": "SL", "share": "0.225", "parentID": "Asia" },
+         { "kind": "India", "share": "0.192", "parentID": "Asia" }],
+ "Europe":[{ "kind": "Russia", "share": "0.192", "parentID": "Europe" },
+           { "kind": "France", "share": "0.192", "parentID": "Europe" }]
 },
  "stackedbarchartdata":{
  "name": "Sellout By Town",
