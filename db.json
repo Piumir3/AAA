@@ -74,13 +74,13 @@
  "name": "Sellout By Product Category",
  "Title": "Sellout By Product Category",
  "pieData": [{ "kind": "Asia", "share": "0.175", "parentID": "" },
-    { "kind": "America", "share": "0.238"},
-    { "kind": "Europe", "share": "0.118"},
-    { "kind": "Africa", "share": "0.052"}],
- "Asia":[{ "kind": "SL", "share": "0.225"},
-         { "kind": "India", "share": "0.192"}],
- "Europe":[{ "kind": "Russia", "share": "0.192"},
-           { "kind": "France", "share": "0.192"}]
+    { "kind": "America", "share": "0.238","parentID": "" },
+    { "kind": "Europe", "share": "0.118","parentID": "" },
+    { "kind": "Africa", "share": "0.052","parentID": "" },
+    { "kind": "SL", "share": "0.225","parentID": "Asia" },
+    { "kind": "India", "share": "0.192","parentID": "Asia" },
+    ],
+
 },
  "stackedbarchartdata":{
  "name": "Sellout By Town",
