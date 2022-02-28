@@ -78,8 +78,8 @@
     { "kind": "Europe", "share": "0.118","parentID": "" },
     { "kind": "Africa", "share": "0.052","parentID": "" },
     { "kind": "SL", "share": "0.225","parentID": "Asia" },
-    { "kind": "India", "share": "0.192","parentID": "Asia" },
-    ],
+    { "kind": "India", "share": "0.192","parentID": "Asia" }
+    ]
 
 },
  "stackedbarchartdata":{
