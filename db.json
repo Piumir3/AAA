@@ -120,11 +120,11 @@
  "Title": "Sell out Trending - 2021",
   "categories": [2002, 2003, 2004, 2005, 2006],
  "data":[{
-    "name": "2017",
+    "name": "Foods",
     "type":"line",
     "data": [3.907, 5.943, 4.848, 3.284, 5.263]
   }, {
-    "name": "2018",
+    "name": "Beverages",
     "type":"bar",
     "data": [4.743, 7.295, 7.175, 6.376, 8.153]
   }]
