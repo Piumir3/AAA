@@ -74,11 +74,11 @@
  "name": "Sellout By Product Category",
  "Title": "Sellout By Product Category",
  "pieData": [{ "kind": "Asia", "share": "0.175", "parentID": "" },
-    { "kind": "America", "share": "0.238","parentID": "" },
-    { "kind": "Europe", "share": "0.118","parentID": "" },
-    { "kind": "Africa", "share": "0.052","parentID": "" },
-    { "kind": "SL", "share": "0.225","parentID": "Asia" },
-    { "kind": "India", "share": "0.192","parentID": "Asia" }
+    { "kind": "Beverages", "share": "0.238","parentID": "" },
+    { "kind": "Jams", "share": "0.118","parentID": "" },
+    { "kind": "Biscuits", "share": "0.052","parentID": "" },
+    { "kind": "Juices", "share": "0.225","parentID": "Asia" },
+    { "kind": "Nectar", "share": "0.192","parentID": "Asia" }
     ]
 
 },
