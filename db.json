@@ -80,7 +80,9 @@
     { "kind": "Juices", "share": "0.225","parentID": "Beverage" },
     { "kind": "Nectar", "share": "0.192","parentID": "Beverage" },
     { "kind": "wafers", "share": "0.225","parentID": "Biscuits" },
-    { "kind": "Choky", "share": "0.192","parentID": "Biscuits" }
+    { "kind": "Choky", "share": "0.192","parentID": "Biscuits" },
+    { "kind": "Choky A", "share": "0.225","parentID": "Choky" },
+    { "kind": "Choky B", "share": "0.192","parentID": "Choky" }
     ]
 
 },
