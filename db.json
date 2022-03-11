@@ -1,7 +1,5 @@
 {
- 
- 
-"summary":[
+ "summary":[
 {"name":"Sell Out","amount": "1.9M","Description":"Total Sales Amount","status":"up"},
 {"name":"+Achievement %","amount": "49%","Description":"Sell Out/Target","status":"down"},
 {"name":"ASO","amount": "127K","Description":"Achieve Service Outlet","status":"equal"},
@@ -13,62 +11,13 @@
  "name": "singleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "singleBaChartData": [
-  {"label": "2018","value": "810000","link": "newchart-xml-apple"},        
-  {"label": "2019","value": "620000","link": "newchart-xml-cranberry"},
-  {"label": "2020","value": "350000","link": "newchart-xml-grapes"}],
-  "linkeddata":[{
-            "id": "2018",
-            "linkedchart": {
-                "chart": {
-                    "caption": "Apple Juice - Quarterly Sales",
-                    "subcaption": "Last year",
-                    "numberprefix": "$",
-                    "theme": "fusion",
-                    "rotateValues": "0",
-                    "plottooltext": "$label, $dataValue,  $percentValue"
-                },
-                "data": [{"label": "Q1","value": "157000"},
-                    {"label": "Q2","value": "172000"},
-                    {"label": "Q3","value": "206000"},
-                    {"label": "Q4","value": "275000"}]
-            }
-        },
-        {
-            "id": "2019",
-            "linkedchart": {
-                "chart": {
-                    "caption": "Cranberry Juice - Quarterly Sales",
-                    "subcaption": "Last year",
-                    "numberprefix": "$",
-                    "theme": "fusion",
-                    "plottooltext": "$label, $dataValue,  $percentValue"
-                },
-                "data": [{"label": "Q1","value": "102000"},
-                    {"label": "Q2","value": "142000"},
-                    {"label": "Q3","value": "187000"},
-                    {"label": "Q4","value": "189000"}]
-            }
-        },
-        {
-            "id": "2020",
-            "linkedchart": {
-                "chart": {
-                    "caption": "Grapes Juice - Quarterly Sales",
-                    "subcaption": "Last year",
-                    "numberprefix": "$",
-                    "theme": "fusion",
-                    "rotateValues": "0",
-                    "plottooltext": "$label, $dataValue,  $percentValue"
-                },
-                "data": [
-                    {"label": "Q1","value": "45000"},
-                    {"label": "Q2","value": "72000"},
-                    {"label": "Q3","value": "95000"},
-                    {"label": "Q4","value": "108000"}]
-            }
-        }
-    ]
- },
+    { "interval": "1", "service":"Service 1", "value": "5"},
+    { "interval": "2", "service": "Service 1", "value": "15" },
+    { "interval": "3", "service": "Service 1", "value": "10" },
+    { "interval": "1", "service": "Service 2", "value": "10" },
+    { "interval": "2", "service": "Service 2", "value": "5" },
+    { "interval": "3", "service": "Service 2", "value": "15" }]
+ }
 
 "pieData": {
  "name": "Sellout By Product Category",
