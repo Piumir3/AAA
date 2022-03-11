@@ -8,7 +8,7 @@
 ],
 
  "MultipleBaChartData": {
- "name": "singleBaChartData-TOTAL REVENUE",
+ "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "MultipleBaChartData": [
     { "interval": "1", "service":"Service 1", "value": "5"},
