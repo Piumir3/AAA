@@ -17,7 +17,7 @@
     { "interval": "1", "service": "Service 2", "value": "10" },
     { "interval": "2", "service": "Service 2", "value": "5" },
     { "interval": "3", "service": "Service 2", "value": "15" }]
- }
+ },
 
 "pieData": {
  "name": "Sellout By Product Category",
