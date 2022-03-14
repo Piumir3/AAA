@@ -16,7 +16,9 @@
     { "interval": "2021", "service": "Foods", "value": "10","intervalID": "" ,"serviceID":"" },
     { "interval": "2019", "service": "Beverage", "value": "10","intervalID": "" ,"serviceID":"" },
     { "interval": "2020", "service": "Beverage", "value": "5","intervalID": "" ,"serviceID":"" },
-    { "interval": "2021", "service": "Beverage", "value": "15","intervalID": "" ,"serviceID":"" }
+    { "interval": "2021", "service": "Beverage", "value": "15","intervalID": "" ,"serviceID":"" },
+    { "interval": "2021", "service": "short eats", "value": "1","intervalID": "2019" ,"serviceID":"Foods" },
+    { "interval": "2021", "service": "shake", "value": "12","intervalID": "2019" ,"serviceID":"Beverage" }
     ]
  },
 
