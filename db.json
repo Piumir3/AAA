@@ -11,12 +11,12 @@
  "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "MultipleBaChartData": [
-    { "interval": "2019", "service": "Foods", "value": "5" },
-    { "interval": "2020", "service": "Foods", "value": "15"},
-    { "interval": "2021", "service": "Foods", "value": "10"},
-    { "interval": "2019", "service": "Beverage", "value": "10"},
-    { "interval": "2020", "service": "Beverage", "value": "5"},
-    { "interval": "2021", "service": "Beverage", "value": "15"}
+    { "interval": "2019", "service": "Foods", "value": "5","parentID": ""  },
+    { "interval": "2020", "service": "Foods", "value": "15","parentID": "" },
+    { "interval": "2021", "service": "Foods", "value": "10","parentID": "" },
+    { "interval": "2019", "service": "Beverage", "value": "10","parentID": "" },
+    { "interval": "2020", "service": "Beverage", "value": "5","parentID": "" },
+    { "interval": "2021", "service": "Beverage", "value": "15","parentID": "" }
     ]
  },
 
