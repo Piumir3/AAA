@@ -18,7 +18,8 @@
     { "interval": "January",  "service": "Short Eats", "value": "5","intervalID": "2019" ,"serviceID":"Foods" },
     { "interval": "January", "service": "Shakes", "value": "12","intervalID": "2019" ,"serviceID":"Beverage" },
     { "interval": "January",  "service": "Short Eats", "value": "10","intervalID": "2020" ,"serviceID":"Foods" },
-    { "interval": "January",  "service": "Shakes", "value": "1","intervalID": "2020" ,"serviceID":"Beverage" }
+    { "interval": "January",  "service": "Shakes", "value": "1","intervalID": "2020" ,"serviceID":"Beverage" },
+    { "interval": "January", "service": "Chocolate Shake", "value": "5","intervalID": "January" ,"serviceID":"Shakes" }
     ]
   
  },
