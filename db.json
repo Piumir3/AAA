@@ -11,13 +11,13 @@
  "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "MultipleBaChartData": [
-    { "interval": "1", "service":"Service 1", "value": "5","parentID": "", "intervalID":"" },
-    { "interval": "2", "service": "Service 1", "value": "15","parentID": "","intervalID":""  },
-    { "interval": "3", "service": "Service 1", "value": "10","parentID": "","intervalID":""  },
-    { "interval": "1", "service": "Service 2", "value": "10","parentID": "" ,"intervalID":"" },
-    { "interval": "2", "service": "Service 2", "value": "5","parentID": "" ,"intervalID":"" },
-    { "interval": "3", "service": "Service 2", "value": "15","parentID": "" ,"intervalID":"" },
-    { "interval": "1", "service": "Service 1", "value": "5","parentID": "service 1" ,"intervalID":"1" }]
+    { "interval": "2019", "service": "Foods", "value": "5","parentID": "", "intervalID":"" },
+    { "interval": "2020", "service": "Foods", "value": "15","parentID": "","intervalID":""  },
+    { "interval": "2021", "service": "Foods", "value": "10","parentID": "","intervalID":""  },
+    { "interval": "2019", "service": "Beverage", "value": "10","parentID": "" ,"intervalID":"" },
+    { "interval": "2020", "service": "Beverage", "value": "5","parentID": "" ,"intervalID":"" },
+    { "interval": "2021", "service": "Beverage", "value": "15","parentID": "" ,"intervalID":"" },
+    ]
  },
 
 "pieData": {
