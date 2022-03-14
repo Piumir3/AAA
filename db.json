@@ -11,10 +11,10 @@
  "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "MultipleBaChartData": [
-    { "interval": "2019", "service": "Foods", "value": "5","intervalID": "" ,"serviceID":"" },
+    { "interval": "2019", "service": "Foods", "value": "12","intervalID": "" ,"serviceID":"" },
     { "interval": "2020", "service": "Foods", "value": "15","intervalID": "","serviceID":""  },
-    { "interval": "2019", "service": "Beverage", "value": "10","intervalID": "" ,"serviceID":"" },
-    { "interval": "2020", "service": "Beverage", "value": "5","intervalID": "" ,"serviceID":"" },
+    { "interval": "2019", "service": "Beverage", "value": "8","intervalID": "" ,"serviceID":"" },
+    { "interval": "2020", "service": "Beverage", "value": "15","intervalID": "" ,"serviceID":"" },
     { "interval": "January",  "service": "Short Eats", "value": "5","intervalID": "2019" ,"serviceID":"Foods" },
     { "interval": "January", "service": "Shakes", "value": "12","intervalID": "2019" ,"serviceID":"Beverage" },
     { "interval": "January",  "service": "Short Eats", "value": "10","intervalID": "2020" ,"serviceID":"Foods" },
