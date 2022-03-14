@@ -11,12 +11,12 @@
  "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
  "MultipleBaChartData": [
-    { "interval": "1", "service":"Service 1", "value": "5","parentID": "" },
-    { "interval": "2", "service": "Service 1", "value": "15","parentID": ""  },
-    { "interval": "3", "service": "Service 1", "value": "10","parentID": ""  },
-    { "interval": "1", "service": "Service 2", "value": "10","parentID": ""  },
-    { "interval": "2", "service": "Service 2", "value": "5","parentID": ""  },
-    { "interval": "3", "service": "Service 2", "value": "15","parentID": ""  }]
+    { "interval": "1", "service":"Service 1", "value": "5","parentID": "", "intervalID":"" },
+    { "interval": "2", "service": "Service 1", "value": "15","parentID": "","intervalID":""  },
+    { "interval": "3", "service": "Service 1", "value": "10","parentID": "","intervalID":""  },
+    { "interval": "1", "service": "Service 2", "value": "10","parentID": "" ,"intervalID":"" },
+    { "interval": "2", "service": "Service 2", "value": "5","parentID": "" ,"intervalID":"" },
+    { "interval": "3", "service": "Service 2", "value": "15","parentID": "" ,"intervalID":"" }]
  },
 
 "pieData": {
