@@ -16,7 +16,7 @@
     { "interval": "2021", "service": "Foods", "value": "10","parentID": "","intervalID":""  },
     { "interval": "2019", "service": "Beverage", "value": "10","parentID": "" ,"intervalID":"" },
     { "interval": "2020", "service": "Beverage", "value": "5","parentID": "" ,"intervalID":"" },
-    { "interval": "2021", "service": "Beverage", "value": "15","parentID": "" ,"intervalID":"" },
+    { "interval": "2021", "service": "Beverage", "value": "15","parentID": "" ,"intervalID":"" }
     ]
  },
 
