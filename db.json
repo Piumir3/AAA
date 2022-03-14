@@ -20,6 +20,7 @@
     { "interval": "January",  "service": "Short Eats", "value": "10","intervalID": "2020" ,"serviceID":"Foods" },
     { "interval": "January",  "service": "Shakes", "value": "1","intervalID": "2020" ,"serviceID":"Beverage" }
     ]
+  
  },
 
 "pieData": {
