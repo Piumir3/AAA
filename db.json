@@ -15,7 +15,7 @@
     { "interval": "2020", "service": "Foods", "value": "15","intervalID": "","serviceID":""  },
     { "interval": "2019", "service": "Beverage", "value": "10","intervalID": "" ,"serviceID":"" },
     { "interval": "2020", "service": "Beverage", "value": "5","intervalID": "" ,"serviceID":"" },
-    { "interval": "January", "service": "short eats", "value": "1","intervalID": "2019" ,"serviceID":"Foods" },
+    { "interval": "January", "service": "short eats", "value": "5","intervalID": "2019" ,"serviceID":"Foods" },
     { "interval": "February", "service": "shake", "value": "12","intervalID": "2019" ,"serviceID":"Beverage" },
     { "interval": "January", "service": "short eats", "value": "10","intervalID": "2020" ,"serviceID":"Foods" },
     { "interval": "January", "service": "short eats", "value": "1","intervalID": "2020" ,"serviceID":"Beverage" }
