@@ -69,7 +69,7 @@
      { "category": "2002", "type":"bar",  "name": "Beverage", "value": "4.7"},
      { "category": "2003", "type":"bar",  "name": "Beverage", "value": "7.2"},
      { "category": "2004", "type":"bar",  "name": "Beverage", "value": "7.1"},
-     { "category": "2005", "type":"bar",  "name": "Beverage", "value": "6.3"},
+     { "category": "2005", "type":"bar",  "name": "Beverage", "value": "6.3"}
     ]
   
  }
