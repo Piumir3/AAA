@@ -61,24 +61,24 @@
  "lineBar":{
  "name": "Sell out Trending - 2021",
  "Title": "Sell out Trending - 2021",
- "data": [
-     { "category": "2002", "type":"line",  "service": "Foods", "value": "3.9","categoryID":"", "serviceID":""},
-                  { "category": "Jan", "type":"line",  "service": "Foods", "value": "5","categoryID":"2002", "serviceID":"Foods"},
-                  { "category": "Feb", "type":"line",  "service": "Foods", "value": "6","categoryID":"2002", "serviceID":"Foods"},
-     { "category": "2003", "type":"line",  "service": "Foods", "value": "5.9","categoryID":"", "serviceID":""},
-                  { "category": "Jan", "type":"line",  "service": "Foods", "value": "7","categoryID":"2003", "serviceID":"Foods"},
-                  { "category": "Feb", "type":"line",  "service": "Foods", "value": "3","categoryID":"2003", "serviceID":"Foods"},
-     { "category": "2004", "type":"line",  "service": "Foods", "value": "4.8","categoryID":"", "serviceID":""},
-     { "category": "2005", "type":"line",  "service": "Foods", "value": "3.2","categoryID":"", "serviceID":""},
+ "line": [
+     { "category": "2002", "service": "Foods", "value": "3.9","categoryID":"", "serviceID":""},
+                  { "category": "Jan",  "service": "Foods", "value": "5","categoryID":"2002", "serviceID":"Foods"},
+                  { "category": "Feb",  "service": "Foods", "value": "6","categoryID":"2002", "serviceID":"Foods"},
+     { "category": "2003", "service": "Foods", "value": "5.9","categoryID":"", "serviceID":""},
+                  { "category": "Jan",  "service": "Foods", "value": "7","categoryID":"2003", "serviceID":"Foods"},
+                  { "category": "Feb", "service": "Foods", "value": "3","categoryID":"2003", "serviceID":"Foods"},
+     { "category": "2004",  "service": "Foods", "value": "4.8","categoryID":"", "serviceID":""},
+     { "category": "2005",  "service": "Foods", "value": "3.2","categoryID":"", "serviceID":""}],
      
-     { "category": "2002", "type":"bar",  "service": "Beverage", "value": "4.7","categoryID":"", "serviceID":""},
-                  { "category": "Jan", "type":"bar",  "service": "Beverage", "value": "9","categoryID":"2002", "serviceID":"Beverage"},
-                  { "category": "Feb", "type":"bar",  "service": "Beverage", "value": "9","categoryID":"2002", "serviceID":"Beverage"},
-     { "category": "2003", "type":"bar",  "service": "Beverage", "value": "7.2","categoryID":"", "serviceID":""},
-                  { "category": "Jan", "type":"bar",  "service": "Beverage", "value": "2","categoryID":"2003", "serviceID":"Beverage"},
-                  { "category": "Feb", "type":"bar",  "service": "Beverage", "value": "8","categoryID":"2003", "serviceID":"Beverage"},
-     { "category": "2004", "type":"bar",  "service": "Beverage", "value": "7.1","categoryID":"", "serviceID":""},
-     { "category": "2005", "type":"bar",  "service": "Beverage", "value": "6.3","categoryID":"", "serviceID":""}
+"bar":[{ "category": "2002",  "service": "Beverage", "value": "4.7","categoryID":"", "serviceID":""},
+                  { "category": "Jan",  "service": "Beverage", "value": "9","categoryID":"2002", "serviceID":"Beverage"},
+                  { "category": "Feb",  "service": "Beverage", "value": "9","categoryID":"2002", "serviceID":"Beverage"},
+     { "category": "2003", "service": "Beverage", "value": "7.2","categoryID":"", "serviceID":""},
+                  { "category": "Jan",  "service": "Beverage", "value": "2","categoryID":"2003", "serviceID":"Beverage"},
+                  { "category": "Feb",  "service": "Beverage", "value": "8","categoryID":"2003", "serviceID":"Beverage"},
+     { "category": "2004", "service": "Beverage", "value": "7.1","categoryID":"", "serviceID":""},
+     { "category": "2005",  "service": "Beverage", "value": "6.3","categoryID":"", "serviceID":""}
     ]
   
  }
