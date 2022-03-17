@@ -1,10 +1,10 @@
 {
- "summary":[
-{"SellOut": "1.99M" , "status":"up"},
-{"Achievement": "49%","status":"down"},
-{"ASO": "127K" , "status":"equal"},
-{"VPO": "12M", "status":"down"},
-{"SellOutperDistributor": "2M","status":"up"}
+"summary":[
+"SellOut": "1.99M",
+"Achievement": "49%",
+"ASO": "127K", 
+"VPO": "12M", 
+"SellOutperDistributor": "2M"
 ],
 
  "MultipleBaChartData": {
