@@ -1,6 +1,6 @@
 {
  "summary":[
-{"name":"Sell Out","amount": "1.9M","Description":"Total Sales Amount","status":"up"},
+{"name":"Sell Out","amount": "1.99M","Description":"Total Sales Amount","status":"up"},
 {"name":"+Achievement %","amount": "49%","Description":"Sell Out/Target","status":"down"},
 {"name":"ASO","amount": "127K","Description":"Achieve Service Outlet","status":"equal"},
 {"name":"VPO","amount": "12M","Description":"Value Per Active Service Outlet","status":"down"},
