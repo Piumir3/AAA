@@ -1,17 +1,11 @@
 {
-"summary":{
-"SellOut": "1.9M",
-"SellOutstatus":"up",
-"Achievement": "49%",
-"AchievementStatus":"down",
-"ASO": "127K",
-"ASOstatus":"equal",
-"VPO": "12M", 
-"VPOstatus":"down",
-"SellOutperDistributor": "2M",
-"SellOutperDistributorStatus":"down"
-},
-
+"summary":[
+ {"name":"Sell Out","Description":"Total Sales Amount","status":"down","amount":-16015.0},
+ {"name":"VPO","Description":"Value Per Active Service Outlet","status":"up","amount":3.0},
+ {"name":"VPO","Description":"Value Per Active Service Outlet","status":"up","amount":-5338.0},
+ {"name":"Sell Out per Distributor","Description":"Average Sell Out per Distributor","status":"up","amount":-16015.0}
+],
+ 
  "MultipleBaChartData": {
  "name": "MultipleBaChartData-TOTAL REVENUE",
  "Title": "Sell out by Year",
